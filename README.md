@@ -103,7 +103,7 @@ python src/main.py
 
 ## 📸 Sample Visualizations
 
-Check the Visualizations appended in the repository.
+Check the Visualizations(Insights.docx) appended in the repository.
 
 ---
 
